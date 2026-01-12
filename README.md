@@ -1,1 +1,1 @@
-# lazorlink
+Repository contains the complete implementation of LazorKit Biometric Authentication. The LazorkitProvider is fully configured in app/layout.tsx, and the signInWithPasskey logic is implemented in app/page.tsx. The project successfully integrates Solana Devnet for smart wallet generation # lazorlink
